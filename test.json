@@ -1,0 +1,30 @@
+{
+    "text": "World",
+    "child": [
+        {
+            "name": "China",
+            "cases": 100,
+            "deaths": 10,
+            "recovered": 50,
+            "text": "",
+            "child": [
+                {
+                    "name": "河北",
+                    "cases": 10,
+                    "deaths": 1,
+                    "recovered": 5,
+                    "text": "",
+                    "child":[]
+                }
+            ]
+        },
+        {
+            "name": "US",
+            "cases": 500,
+            "deaths": 50,
+            "recovered": 250,
+            "text": "",
+            "child": []
+        }
+    ]
+}
